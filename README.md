@@ -1,7 +1,7 @@
 # README #
 
-Application Security, CS-GY 9163
-Lab 1a (Python Console Application)
+Application Security, CS-GY 9163  
+Lab 1a (Python Console Application)  
 Group: Prasanth Venigalla, Vedanth Dasari, Srikar Kompella
 
 We wrote simple scripts to both re-size an image as well as spell check a given text file and dictionary file.
